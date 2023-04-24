@@ -1,0 +1,22 @@
+body {
+    background-color: #B9EDDD;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #577D86;
+    border-width: 10px;
+    width: 10%;
+}
+h1 {
+    color: #569DAA;
+}
+h2 {
+    color: #569DAA;
+}
+h3 {
+    color: #569DAA;
+}
+a:hover {
+    color:azure;
+}
